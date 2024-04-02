@@ -1,0 +1,3 @@
+Nome: Gabriel Yukio Ujita Alves
+
+obs; fiquei um pouco perdido nesse modulo, git é uma coisa simples ao meu ver, porém precisei procurar mais conteudo para ter um melhor entendimento. Assim aprendi a usar o GitHub Desktop. Mas ainda pratiquei com o terminal.
